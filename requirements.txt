@@ -1,0 +1,4 @@
+# Phase 1 intentionally has no runtime dependencies.
+# For future local development, use: python -m pip install -e ".[dev,docs]"
+# Heavy medical-imaging and deep-learning packages will be evaluated in later phases.
+

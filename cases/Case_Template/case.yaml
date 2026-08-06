@@ -1,0 +1,48 @@
+schema_version: "1.0"
+
+case:
+  id: "CaseNNN"
+  slug: "CaseNNN_MODALITY_Anatomy"
+  title: "Replace with a non-identifying title"
+  status: "Planned" # Allowed: Planned, In Progress, Validated, Published
+  objective: "Define a specific non-clinical technical or learning objective."
+
+data:
+  classification: "synthetic" # Required: synthetic, open-dataset, or public
+  source_name: "To be documented"
+  source_url: ""
+  source_version: ""
+  accessed_on: null # YYYY-MM-DD
+  license: "To be documented"
+  redistribution_permitted: false
+  checksum: ""
+  contains_private_clinical_data: false
+  contains_identifiers: false
+
+acquisition:
+  modality: "To be documented"
+  anatomy: "To be documented"
+  equipment: "Not applicable or to be documented"
+  protocol: "To be documented"
+
+privacy_review:
+  completed: false
+  reviewed_on: null
+  reviewer: ""
+  notes: "Required before publication."
+
+workflow:
+  tools: []
+  segmented_structures: []
+  configuration_files: []
+  quality_control: "To be documented"
+
+outputs:
+  screenshots: []
+  models: []
+  statistics: []
+  radiomics: []
+
+limitations:
+  - "Template case; no results or validation are claimed."
+

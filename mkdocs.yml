@@ -1,0 +1,45 @@
+site_name: Felipe Angelo Medical AI Lab
+site_description: Medical Imaging, 3D Segmentation, Radiomics and AI Engineering Portfolio
+site_author: Felipe Angelo
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+  features:
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Vision: vision.md
+  - Roadmap: roadmap.md
+  - Architecture: architecture.md
+  - Data Governance: data-governance.md
+  - Case Standard: case-standard.md
+  - Development: development.md
+  - Wiki: wiki/index.md
+
+markdown_extensions:
+  - admonition
+  - attr_list
+  - tables
+  - toc:
+      permalink: true
+
+strict: true

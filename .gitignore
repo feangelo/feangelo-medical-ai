@@ -1,0 +1,92 @@
+# Private or potentially identifiable medical imaging
+*.dcm
+*.dicom
+*.ima
+*.acr
+DICOMDIR
+**/Original_Data/**
+!**/Original_Data/.gitkeep
+!**/Original_Data/README.md
+
+# Medical image volumes and derived arrays are denied by default
+*.nii
+*.nii.gz
+*.nrrd
+*.nhdr
+*.mha
+*.mhd
+*.hdr
+*.img
+*.raw
+*.zraw
+*.h5
+*.hdf5
+*.npy
+*.npz
+
+# Large models, scenes, meshes, and media are denied by default
+*.ckpt
+*.pth
+*.pt
+*.onnx
+*.safetensors
+*.mrb
+*.mrml
+*.blend
+*.stl
+*.obj
+*.ply
+*.vtk
+*.vtp
+*.vti
+*.mp4
+*.mov
+*.avi
+
+# Archives can conceal prohibited data
+*.zip
+*.7z
+*.rar
+*.tar
+*.tar.gz
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+*.p12
+*.pfx
+credentials.json
+secrets.*
+
+# Python
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+build/
+dist/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Jupyter and documentation builds
+.ipynb_checkpoints/
+site/
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Local reports and logs
+*.log
+*.tmp
+
