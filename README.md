@@ -88,13 +88,16 @@ The learning journey records concepts, questions, limitations, and next steps wi
 
 | Lesson | Topic | Status |
 |---|---|---|
+| [Lesson 01](learning/3d-slicer/lesson-01-introduction-to-3d-slicer.md) | Introduction to 3D Slicer | Learning record |
+| [Lesson 02](learning/3d-slicer/lesson-02-first-lung-segmentation.md) | First Lung Segmentation | Learning record |
 | [Lesson 03](learning/3d-slicer/lesson-03-segmentation-pipeline.md) | Segmentation Pipeline: Threshold, Islands, Logical Operators, Margin, and Smoothing | Learning record |
+| [Lesson 04](learning/3d-slicer/lesson-04-quality-control-and-manual-editing.md) | Quality Control and Manual Editing | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 
 ```bash
-python scripts/create_lesson.py --number 4 --title "Lesson title" --dry-run
-python scripts/create_lesson.py --number 4 --title "Lesson title"
+python scripts/create_lesson.py --number 5 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 5 --title "Lesson title"
 ```
 
 The first command previews the destination. The second creates it only when no file already exists. Projects and results will be added only after implementation, review, and supporting evidence exist.

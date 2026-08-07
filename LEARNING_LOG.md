@@ -24,6 +24,46 @@ This log records progress without treating study activity as proof of validated 
 
 ---
 
+### Date not recorded — Introduction to 3D Slicer
+
+**What I learned**
+
+- Identified the main 3D Slicer interface areas and navigated axial, coronal, and sagittal views.
+- Connected anatomical orientation labels with patient directions and learned the basic concepts of voxels and segmentation.
+
+**Difficulties**
+
+- Maintaining anatomical orientation while moving between different layouts and planes.
+- Distinguishing image navigation, segmentation masks, and three-dimensional representations.
+
+**Evidence or practice**
+
+- [Lesson 01 — Introduction to 3D Slicer](learning/3d-slicer/lesson-01-introduction-to-3d-slicer.md)
+
+**Next steps**
+
+- Use Segment Editor to create the first guided lung segmentation.
+
+### Date not recorded — First lung segmentation
+
+**What I learned**
+
+- Used Segment Editor, Threshold, Paint, and Grow from Seeds to organize the right lung, left lung, body, and trachea as separate segments.
+- Distinguished Preview, Auto Update, and Apply and observed volume, voxel count, and mean HU in Segment Statistics.
+
+**Difficulties**
+
+- Placing representative seeds while maintaining separation between neighboring regions.
+- Interpreting quantitative outputs without treating them as independent proof of segmentation quality.
+
+**Evidence or practice**
+
+- [Lesson 02 — First Lung Segmentation](learning/3d-slicer/lesson-02-first-lung-segmentation.md)
+
+**Next steps**
+
+- Organize Threshold and post-processing tools into a standardized, reproducible segmentation pipeline.
+
 ### 2026-08-06 — 3D Slicer segmentation pipeline
 
 **What I learned**
@@ -43,3 +83,24 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Repeat the workflow with approved synthetic or open data and record exact software versions, parameters, and quality-control observations.
+
+### 2026-08-07 — Quality control and manual editing in 3D Slicer
+
+**What I learned**
+
+- Structured quality control as a protocol-driven review across slice views and the 3D representation.
+- Examined when Paint, Erase, Scissors, Smoothing, and Grow from Seeds are appropriate for correction or refinement.
+- Connected observer variability and mask editing decisions to AI label quality and radiomics reproducibility.
+
+**Difficulties**
+
+- Distinguishing a limited, defensible correction from a segmentation that should be restarted.
+- Balancing geometric regularity with preservation of relevant anatomical detail and quantitative stability.
+
+**Evidence or practice**
+
+- [Lesson 04 — Quality Control and Manual Editing](learning/3d-slicer/lesson-04-quality-control-and-manual-editing.md)
+
+**Next steps**
+
+- Apply the checklist to an approved synthetic or open-data exercise and record the exact 3D Slicer version, parameters, corrections, and review findings.

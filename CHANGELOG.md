@@ -10,6 +10,9 @@ All notable changes to this project will be documented here. The format follows 
 - Privacy-conscious case template and data classification model.
 - Python 3.12 project metadata, quality configuration, and documentation scaffold.
 - Initial GitHub Actions and Dependabot configuration.
-- Lesson 03 documentation for the 3D Slicer segmentation pipeline.
+- Reconstructed Lesson 01 introduction to 3D Slicer.
+- Reconstructed Lesson 02 first lung segmentation workflow.
+- Reconstructed Lesson 03 standardized segmentation pipeline.
 - Reusable lesson template and safe lesson-generation script.
 - Learning Journey navigation in the main README.
+- Lesson 04 documentation for quality control and manual editing in 3D Slicer.
