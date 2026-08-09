@@ -104,3 +104,25 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Apply the checklist to an approved synthetic or open-data exercise and record the exact 3D Slicer version, parameters, corrections, and review findings.
+
+### 2026-08-09 — Segmentation validation and quality metrics
+
+**What I learned**
+
+- Distinguished overlap and boundary metrics from anatomical, visual, and clinical validation.
+- Examined Ground Truth as the best available reviewed reference rather than an absolute truth.
+- Connected acquisition protocols, scanners, reconstruction, segmentation methods, and preprocessing with reproducibility.
+- Considered how SOPs and protocol adherence influence the interpretation of multicenter AI performance.
+
+**Difficulties**
+
+- Interpreting a high overlap score without overlooking small but important anatomical errors.
+- Separating model limitations from acquisition, protocol, population, and operator differences between centers.
+
+**Evidence or practice**
+
+- [Lesson 05 — Segmentation Validation and Quality Metrics](learning/3d-slicer/lesson-05-segmentation-validation-and-quality-metrics.md)
+
+**Next steps**
+
+- Use approved synthetic masks to compare Dice, IoU, and boundary differences while documenting geometry, protocol, visual findings, and limitations.

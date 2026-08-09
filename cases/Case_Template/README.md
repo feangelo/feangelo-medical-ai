@@ -2,6 +2,8 @@
 
 > Template only. This directory does not represent a completed or validated case.
 
+Several subdirectories are intentionally reserved for future learning stages. Empty or reserved directories do not constitute evidence of completed analysis, validated results, publication, or proficiency. They should be populated only after the corresponding topic has been studied and the work can be documented with appropriate provenance, methods, review, and limitations.
+
 ## Overview
 
 | Field | Value |
@@ -78,4 +80,3 @@ Add only after reviewing the available evidence.
 ## Next steps
 
 - Define the next measurable action.
-

@@ -1,6 +1,6 @@
 # Felipe Angelo Medical AI Lab
 
-**FAMAI Lab** — Medical Imaging, 3D Segmentation, Radiomics and AI Engineering Portfolio
+**FAMAI Lab** — A structured learning portfolio for medical imaging, 3D segmentation, radiomics, and medical AI engineering
 
 > This project is in active development. Its current purpose is to document a transparent, reproducible learning path and establish the engineering foundation for future public work.
 
@@ -8,7 +8,7 @@
 
 ## About
 
-My name is Felipe Angelo. I am a Biomedical Scientist with experience working with CT and MRI imaging. I am developing skills in medical image segmentation, quantitative imaging, radiomics, medical AI, and digital twins.
+My name is Felipe Angelo. I am a Biomedical Scientist with experience working with CT and MRI imaging. My current documented learning focuses on 3D Slicer foundations and medical image segmentation. Quantitative imaging, radiomics, medical AI, centerlines, and digital twins are longer-term learning goals and are not presented as implemented competencies.
 
 FAMAI Lab is a long-term public portfolio and technical laboratory. It will be used to document learning, build reproducible workflows, and publish carefully reviewed projects based only on synthetic, public, or appropriately licensed open datasets.
 
@@ -18,15 +18,15 @@ This repository does not contain clinical claims, diagnostic software, or privat
 
 The repository foundation is **In Progress**. Case studies, pipelines, validation results, publications, and deployed applications remain planned until evidence is available. See the [roadmap](ROADMAP.md) for the authoritative status.
 
-## Focus areas
+## Learning roadmap
 
-- Medical image segmentation with an initial focus on CT and MRI
-- Quantitative imaging and reproducible measurements
-- Radiomics methodology and feature reproducibility
-- Python engineering for medical imaging workflows
-- Medical AI fundamentals and model evaluation
-- 3D models, centerlines, visualization, and digital twins
-- Privacy-conscious scientific communication
+- **Currently documented:** 3D Slicer foundations, segmentation tools, basic quantitative outputs, and mask quality control.
+- **Developing progressively:** Python engineering for reproducible medical-imaging workflows.
+- **Planned:** quantitative imaging and reproducible measurements.
+- **Planned:** radiomics methodology and feature reproducibility.
+- **Planned:** medical AI fundamentals, machine learning, deep learning, and model evaluation.
+- **Planned:** 3D models, centerline extraction, visualization, and digital twins.
+- **Ongoing principle:** privacy-conscious scientific communication without unsupported claims.
 
 ## Planned technology ecosystem
 
@@ -92,12 +92,13 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 02](learning/3d-slicer/lesson-02-first-lung-segmentation.md) | First Lung Segmentation | Learning record |
 | [Lesson 03](learning/3d-slicer/lesson-03-segmentation-pipeline.md) | Segmentation Pipeline: Threshold, Islands, Logical Operators, Margin, and Smoothing | Learning record |
 | [Lesson 04](learning/3d-slicer/lesson-04-quality-control-and-manual-editing.md) | Quality Control and Manual Editing | Learning record |
+| [Lesson 05](learning/3d-slicer/lesson-05-segmentation-validation-and-quality-metrics.md) | Segmentation Validation and Quality Metrics | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 
 ```bash
-python scripts/create_lesson.py --number 5 --title "Lesson title" --dry-run
-python scripts/create_lesson.py --number 5 --title "Lesson title"
+python scripts/create_lesson.py --number 6 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 6 --title "Lesson title"
 ```
 
 The first command previews the destination. The second creates it only when no file already exists. Projects and results will be added only after implementation, review, and supporting evidence exist.

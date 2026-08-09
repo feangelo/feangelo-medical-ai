@@ -16,3 +16,4 @@ All notable changes to this project will be documented here. The format follows 
 - Reusable lesson template and safe lesson-generation script.
 - Learning Journey navigation in the main README.
 - Lesson 04 documentation for quality control and manual editing in 3D Slicer.
+- Lesson 05 documentation for segmentation validation and quality metrics.
