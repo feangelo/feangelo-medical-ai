@@ -17,3 +17,4 @@ All notable changes to this project will be documented here. The format follows 
 - Learning Journey navigation in the main README.
 - Lesson 04 documentation for quality control and manual editing in 3D Slicer.
 - Lesson 05 documentation for segmentation validation and quality metrics.
+- Lesson 06 documentation for observer variability and scientific reproducibility.

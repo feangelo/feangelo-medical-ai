@@ -15,10 +15,11 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 03 — Segmentation Pipeline](3d-slicer/lesson-03-segmentation-pipeline.md)
 - [Lesson 04 — Quality Control and Manual Editing](3d-slicer/lesson-04-quality-control-and-manual-editing.md)
 - [Lesson 05 — Segmentation Validation and Quality Metrics](3d-slicer/lesson-05-segmentation-validation-and-quality-metrics.md)
+- [Lesson 06 — Observer Variability and Scientific Reproducibility](3d-slicer/lesson-06-observer-variability-and-scientific-reproducibility.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:
 
 ```bash
-python scripts/create_lesson.py --number 6 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 7 --title "Lesson title" --dry-run
 ```

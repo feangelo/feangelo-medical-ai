@@ -126,3 +126,25 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Use approved synthetic masks to compare Dice, IoU, and boundary differences while documenting geometry, protocol, visual findings, and limitations.
+
+### 2026-08-09 — Observer variability and scientific reproducibility
+
+**What I learned**
+
+- Distinguished intraobserver variability from interobserver variability in medical image segmentation.
+- Examined how human factors, anatomical ambiguity, acquisition conditions, and protocol adherence influence annotations.
+- Understood expert consensus as a documented process for creating a more robust reference rather than absolute truth.
+- Connected SOPs, training, parameter recording, and protocol consistency with scientific reproducibility.
+
+**Difficulties**
+
+- Distinguishing acceptable expert variation from avoidable protocol-related inconsistency.
+- Interpreting disagreement according to anatomy and application rather than assuming that one mask must be incorrect.
+
+**Evidence or practice**
+
+- [Lesson 06 — Observer Variability and Scientific Reproducibility](learning/3d-slicer/lesson-06-observer-variability-and-scientific-reproducibility.md)
+
+**Next steps**
+
+- Study introductory agreement and reliability methods before applying ICC, Cohen's Kappa, Bland–Altman, or reader-study designs.
