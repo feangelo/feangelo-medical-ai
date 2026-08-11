@@ -18,3 +18,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 04 documentation for quality control and manual editing in 3D Slicer.
 - Lesson 05 documentation for segmentation validation and quality metrics.
 - Lesson 06 documentation for observer variability and scientific reproducibility.
+- Lesson 07 documentation for image acquisition and protocol standardization.

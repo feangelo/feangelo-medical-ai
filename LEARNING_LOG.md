@@ -148,3 +148,25 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Study introductory agreement and reliability methods before applying ICC, Cohen's Kappa, Bland–Altman, or reader-study designs.
+
+### 2026-08-11 — Image acquisition and protocol standardization
+
+**What I learned**
+
+- Identified introductory CT acquisition and reconstruction parameters that may influence quantitative image analysis.
+- Connected protocol standardization and acquisition documentation with reproducibility across institutions.
+- Examined how image quality and acquisition conditions indirectly affect segmentation and Ground Truth quality.
+- Applied practical CT experience to the interpretation of possible artifacts without treating a visual finding as confirmed pathology.
+
+**Difficulties**
+
+- Separating acquisition, reconstruction, preprocessing, segmentation, and model-related sources of variability.
+- Interpreting multicenter differences without assuming that similarly named protocols produce equivalent images.
+
+**Evidence or practice**
+
+- [Lesson 07 — Image Acquisition and Protocol Standardization](learning/3d-slicer/lesson-07-image-acquisition-and-protocol-standardization.md)
+
+**Next steps**
+
+- Review approved, non-identifiable acquisition metadata examples before studying harmonization, normalization, or multicenter AI methods.
