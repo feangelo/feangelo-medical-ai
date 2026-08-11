@@ -3,7 +3,7 @@
 **Learning path:** 3D Slicer  
 **Date:** 2026-08-06  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -140,14 +140,13 @@ Common errors to avoid:
 - Standardization reduces avoidable variation while still allowing justified, documented decisions.
 - Segmentation is scientifically important because the mask defines the data included in later analysis.
 
-## Future Course Notes
+## Future Learning Directions
 
-- Demonstrate the complete pipeline on synthetic or appropriately licensed open data.
+- Document the complete pipeline on synthetic or appropriately licensed open data.
 - Save parameter examples without presenting them as universal anatomical settings.
 - Include a visual comparison of Remove Small Islands, Keep Largest Island, and Split Islands.
-- Demonstrate a source/destination error in Logical Operators and how to prevent it.
+- Document a source/destination error in Logical Operators and how to prevent it.
 - Compare volume before and after Margin and Smoothing.
 - Use a simple boundary example to explain partial-volume voxels.
-- Provide a pipeline worksheet for software version, operation order, parameters, and deviations.
+- Provide a structured pipeline record for software version, operation order, parameters, and deviations.
 - Continue next with systematic quality control and manual editing in Lesson 04.
-

@@ -3,11 +3,11 @@
 **Learning path:** 3D Slicer  
 **Date:** Not recorded  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
-- Create a first educational lung segmentation with Segment Editor.
+- Document a first lung segmentation with Segment Editor.
 - Understand the roles of Threshold, Paint, and Grow from Seeds.
 - Use Preview, Auto Update, and Apply as distinct stages of a semi-automatic workflow.
 - Create separate segments for the right lung, left lung, body, and trachea.
@@ -61,7 +61,7 @@ These values depend on the segmentation boundary, source image, voxel spacing, a
 
 ### 1. Confirm the CT volume
 
-Load the approved educational CT examination. Check orientation, image quality, and the correct source series before creating a segmentation.
+Load the approved learning CT examination. Check orientation, image quality, and the correct source series before creating a segmentation.
 
 ### 2. Open Segment Editor
 
@@ -134,14 +134,13 @@ Common errors to avoid:
 - The 3D view helps identify global problems, while slice views remain essential for boundary review.
 - Segment Statistics converts the mask into quantitative outputs whose reliability depends on segmentation quality.
 
-## Future Course Notes
+## Future Learning Directions
 
-- Use a synthetic or appropriately licensed chest CT for the guided demonstration.
+- Use a synthetic or appropriately licensed chest CT for the documented learning exercise.
 - Show an intentionally poor seed distribution and how the preview changes after refinement.
 - Emphasize active-segment selection before every Paint operation.
 - Include a short comparison between voxel count and physical volume.
-- Demonstrate how choosing the wrong scalar volume affects the meaning of mean intensity.
-- Add a worksheet for recording segment names, source volume, volume, voxel count, and mean HU.
+- Document how choosing the wrong scalar volume affects the meaning of mean intensity.
+- Add a structured record for segment names, source volume, volume, voxel count, and mean HU.
 - Reserve detailed quality-control and manual-editing criteria for Lesson 04.
 - Continue next with a more standardized segmentation pipeline using Islands, Logical Operators, Margin, and Smoothing.
-

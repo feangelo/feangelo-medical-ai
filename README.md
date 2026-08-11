@@ -41,7 +41,7 @@ The architecture is designed for future integration with 3D Slicer, SimpleITK, I
 | `career/` | Evidence-based career materials and competency mapping. |
 | `cases/` | Public, synthetic, or open-dataset case studies. |
 | `configs/` | Shared, non-secret configuration files. |
-| `content/` | Drafts for public educational and portfolio content. |
+| `content/` | Drafts for public scientific communication and portfolio content. |
 | `docs/` | Technical documentation and future MkDocs website. |
 | `learning/` | Structured learning records and exercises. |
 | `notebooks/` | Reproducible notebooks without private data. |

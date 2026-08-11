@@ -16,5 +16,4 @@ Phase 1 establishes governance, repository architecture, documentation, privacy 
 
 ## Responsible-use notice
 
-This repository is educational and experimental. Nothing here is intended for clinical diagnosis, treatment, patient management, or deployment without appropriate independent validation and regulatory review.
-
+This repository documents scientific learning and experimental work. Nothing here is intended for clinical diagnosis, treatment, patient management, or deployment without appropriate independent validation and regulatory review.

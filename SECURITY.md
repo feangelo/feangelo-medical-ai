@@ -24,5 +24,4 @@ If sensitive data are discovered locally, stop processing them. Do not copy, mov
 
 ## Clinical safety
 
-Content in this repository is educational and experimental. It must not be used for diagnosis, treatment, patient management, or clinical deployment without independent validation, quality management, cybersecurity review, and applicable regulatory authorization.
-
+Content in this repository is learning-oriented and experimental. It must not be used for diagnosis, treatment, patient management, or clinical deployment without independent validation, quality management, cybersecurity review, and applicable regulatory authorization.

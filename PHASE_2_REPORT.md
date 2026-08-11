@@ -127,7 +127,7 @@ No remote, push, tag, or release is part of this phase.
 
 ## Risks and limitations
 
-1. The questions section is a structured educational record; it does not claim a transcript or external evidence beyond the lesson topics provided.
+1. The questions section is a structured learning record; it does not claim a transcript or external evidence beyond the lesson topics provided.
 2. Ruff formatting/lint and the strict MkDocs build remain unverified locally because those tools are not installed.
 3. Tests have not yet run under the target Python 3.12 interpreter.
 4. The repository is still private to the local filesystem and has no independently executed CI evidence.
@@ -135,7 +135,7 @@ No remote, push, tag, or release is part of this phase.
 
 ## Pending review
 
-- Confirm that Lesson 03 accurately reflects the classroom discussion.
+- Confirm that Lesson 03 accurately reflects the documented learning discussion.
 - Add the actual 3D Slicer version and verified references when available.
 - Decide whether future lesson automation should be moved into the package CLI during a later architecture phase.
 - Run Ruff, pytest, and MkDocs under Python 3.12 after explicit approval to prepare the development environment.

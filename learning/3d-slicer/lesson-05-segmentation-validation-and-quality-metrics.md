@@ -3,7 +3,7 @@
 **Learning path:** 3D Slicer  
 **Date:** 2026-08-09  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -183,7 +183,7 @@ Common errors to avoid:
 - Hospital imaging experience helps interpret real acquisition variability and segmentation results.
 - SOPs and expert consensus make comparisons more consistent and transparent.
 
-## Future Course Notes
+## Future Learning Directions
 
 - Introduce PyRadiomics only as a future topic requiring separate study of preprocessing and feature reproducibility.
 - Develop a later lesson on AI validation and the limits of performance metrics.
@@ -191,6 +191,5 @@ Common errors to avoid:
 - Study annotation variability and consensus methods in greater depth.
 - Introduce MONAI and nnU-Net only after the required Python, imaging, and validation foundations are established.
 - Explore digital twins later as a planned topic with explicit assumptions and validation requirements.
-- Use synthetic or appropriately licensed masks to demonstrate Dice, IoU, and boundary-distance behavior.
+- Use synthetic or appropriately licensed masks to document Dice, IoU, and boundary-distance behavior.
 - Add no claim of proficiency until future study and evidence support it.
-

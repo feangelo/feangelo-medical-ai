@@ -3,7 +3,7 @@
 **Learning path:** 3D Slicer  
 **Date:** Not recorded  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -21,7 +21,7 @@
 
 3D Slicer is an open-source platform for viewing, processing, and analyzing medical images. It brings together two-dimensional slice views, three-dimensional visualization, segmentation tools, measurements, and extensible modules in one environment. In this first lesson, the focus was orientation and safe navigation rather than image processing.
 
-The software supports research and educational workflows, but opening an examination in 3D Slicer does not by itself establish a validated clinical workflow. The intended use, data governance, method, and quality controls remain important.
+The software supports research and scientific learning workflows, but opening an examination in 3D Slicer does not by itself establish a validated clinical workflow. The intended use, data governance, method, and quality controls remain important.
 
 ### Interface and layout
 
@@ -70,7 +70,7 @@ Locate the module selector, toolbar, data hierarchy, module panel, slice views, 
 
 ### 2. Load the examination
 
-Use the appropriate loading option for the available educational examination. Confirm that the expected image volume appears in the data hierarchy and slice viewers. Do not overwrite or alter source data during initial inspection.
+Use the appropriate loading option for the approved learning examination. Confirm that the expected image volume appears in the data hierarchy and slice viewers. Do not overwrite or alter source data during initial inspection.
 
 ### 3. Select a multi-view layout
 
@@ -124,13 +124,12 @@ Common errors to avoid:
 - The 3D view supports spatial understanding, but slice views remain necessary for detailed inspection.
 - Confirming the examination and orientation is a prerequisite for later segmentation work.
 
-## Future Course Notes
+## Future Learning Directions
 
 - Include an annotated interface image using only public or synthetic content.
-- Add a short exercise asking learners to identify each anatomical plane and orientation label.
-- Demonstrate the difference between pixels, voxels, voxel count, and physical volume with a simple diagram.
-- Provide a navigation exercise that uses the same anatomical point across all three planes.
+- Add a short self-assessment for identifying each anatomical plane and orientation label.
+- Document the difference between pixels, voxels, voxel count, and physical volume with a simple diagram.
+- Add a navigation record that uses the same anatomical point across all three planes.
 - Reinforce that loading data, creating a segmentation, and generating a 3D representation are separate stages.
-- Record the exact 3D Slicer version and the approved example dataset when preparing the course material.
-- Continue next with the first guided lung segmentation using Segment Editor.
-
+- Record the exact 3D Slicer version and the approved example dataset when preparing the scientific learning documentation.
+- Continue next with the first documented lung-segmentation exercise using Segment Editor.

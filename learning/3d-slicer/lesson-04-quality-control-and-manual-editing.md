@@ -3,7 +3,7 @@
 **Learning path:** 3D Slicer  
 **Date:** 2026-08-07  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -149,18 +149,17 @@ Complete this checklist before export:
 - Smoothing can improve regularity while simultaneously changing scientific measurements.
 - A research-ready mask requires documented acceptance criteria, provenance, and review evidence.
 
-## Future Course Notes
+## Future Learning Directions
 
-- Introduce quality control before teaching export so review becomes part of the default workflow.
+- Document quality control before export so review remains part of the default workflow.
 - Use synthetic or appropriately licensed examples containing leakage, holes, islands, missing boundaries, and geometry errors.
-- Demonstrate the same defect in 2D and 3D to show why both views are necessary.
+- Document the same defect in 2D and 3D to show why both views are necessary.
 - Include a decision exercise comparing targeted correction with a complete restart.
-- Demonstrate Paint, Erase, and Scissors with explicit examples of appropriate and inappropriate use.
+- Document Paint, Erase, and Scissors with explicit examples of appropriate and inappropriate use.
 - Show how seed placement changes Grow from Seeds results and neighboring segments.
 - Compare volume and surface changes before and after Smoothing.
 - Add an interobserver exercise with a short written protocol and a structured disagreement review.
-- Connect segmentation variability to future modules on radiomics robustness and AI label quality.
-- Provide a downloadable, non-clinical quality checklist and a versioned segmentation-review form.
-- Record the exact 3D Slicer version and verified references when producing the course material.
-- Keep all demonstrations free of private clinical data and clearly separate educational workflows from clinical validation.
-
+- Connect segmentation variability to future learning topics on radiomics robustness and AI label quality.
+- Provide a version-controlled, non-clinical quality checklist and a segmentation-review form.
+- Record the exact 3D Slicer version and verified references when producing the scientific learning documentation.
+- Keep all documented examples free of private clinical data and clearly separate learning workflows from clinical validation.

@@ -42,7 +42,7 @@ This log records progress without treating study activity as proof of validated 
 
 **Next steps**
 
-- Use Segment Editor to create the first guided lung segmentation.
+- Use Segment Editor to document the first lung-segmentation exercise.
 
 ### Date not recorded — First lung segmentation
 

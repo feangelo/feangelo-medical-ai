@@ -3,7 +3,7 @@
 **Learning path:** 3D Slicer  
 **Date:** 2026-08-11  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -201,7 +201,7 @@ Common errors to avoid:
 - AI and quantitative results should be interpreted in the context of the complete imaging pipeline.
 - Scientific conclusions depend on acquisition, reconstruction, preprocessing, segmentation, review, and intended application.
 
-## Future Course Notes
+## Future Learning Directions
 
 - Introduce image harmonization only after its objectives, assumptions, and limitations are studied.
 - Study ComBat as a future statistical harmonization topic without implying current proficiency.
@@ -211,4 +211,3 @@ Common errors to avoid:
 - Explore multicenter AI only after the required data-governance and validation foundations are established.
 - Use synthetic or appropriately licensed examples when comparing protocol effects.
 - Add no claim of competence in these future methods until study and evidence support it.
-

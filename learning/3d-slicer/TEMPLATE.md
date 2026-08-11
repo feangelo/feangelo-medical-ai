@@ -3,7 +3,7 @@
 **Learning path:** {{LEARNING_PATH}}  
 **Date:** {{DATE}}  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -50,4 +50,3 @@ Map the concepts to potential Python implementations, configuration, testing, lo
 ## References and evidence
 
 List only verified sources and approved public evidence. Include software version, dataset provenance, license, and access date when applicable. If none are available, state that explicitly.
-

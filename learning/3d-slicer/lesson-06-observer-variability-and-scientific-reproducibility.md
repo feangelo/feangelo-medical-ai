@@ -3,7 +3,7 @@
 **Learning path:** 3D Slicer  
 **Date:** 2026-08-09  
 **Status:** Learning record  
-**Scope:** Educational workflow; no clinical data or patient-specific conclusions
+**Scope:** Scientific learning documentation; no clinical data or patient-specific conclusions
 
 ## Objectives
 
@@ -176,7 +176,7 @@ Common errors to avoid:
 - Acquisition experience helps explain image-related sources of variation.
 - Understanding and controlling variability is more useful than pretending it does not exist.
 
-## Future Course Notes
+## Future Learning Directions
 
 - Introduce the Intraclass Correlation Coefficient only after studying its assumptions and appropriate use.
 - Study Cohen's Kappa as a future method for categorical agreement.
@@ -187,4 +187,3 @@ Common errors to avoid:
 - Discuss clinical trials as a future topic requiring formal protocol, governance, and statistical expertise.
 - Use synthetic or appropriately licensed examples for future agreement exercises.
 - Make no claim of proficiency in these methods until study and evidence support it.
-
