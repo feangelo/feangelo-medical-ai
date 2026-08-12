@@ -170,3 +170,26 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Review approved, non-identifiable acquisition metadata examples before studying harmonization, normalization, or multicenter AI methods.
+
+### 2026-08-12 — Image preprocessing and harmonization
+
+**What I learned**
+
+- Distinguished spatial standardization through resampling from equivalence of original image information.
+- Connected partial-volume effects, feature robustness, confounding, and shortcut learning with multicenter technical variability.
+- Distinguished normalization from harmonization and considered the need to preserve biological information while reducing unwanted technical variation.
+- Examined overcorrection risk and the importance of retaining patient, disease, center, scanner, acquisition, reconstruction, and Ground Truth metadata.
+- Connected professional CT-guided biopsy experience with spatial consistency and lesion-conspicuity considerations without treating the observation as formal evidence.
+
+**Difficulties**
+
+- Separating technical center effects from genuine biological or population differences when they are confounded.
+- Selecting preprocessing decisions according to the scientific question without assuming that standardized grids are equivalent.
+
+**Evidence or practice**
+
+- [Lesson 08 — Image Preprocessing and Harmonization](learning/3d-slicer/lesson-08-image-preprocessing-and-harmonization.md)
+
+**Next steps**
+
+- Study approved metadata examples, interpolation principles, and feature-stability methods before applying harmonization or multicenter AI workflows.

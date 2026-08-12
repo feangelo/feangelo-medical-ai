@@ -95,12 +95,13 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 05](learning/3d-slicer/lesson-05-segmentation-validation-and-quality-metrics.md) | Segmentation Validation and Quality Metrics | Learning record |
 | [Lesson 06](learning/3d-slicer/lesson-06-observer-variability-and-scientific-reproducibility.md) | Observer Variability and Scientific Reproducibility | Learning record |
 | [Lesson 07](learning/3d-slicer/lesson-07-image-acquisition-and-protocol-standardization.md) | Image Acquisition and Protocol Standardization for Quantitative Medical Imaging | Learning record |
+| [Lesson 08](learning/3d-slicer/lesson-08-image-preprocessing-and-harmonization.md) | Image Preprocessing and Harmonization in Multicenter Medical Imaging | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 
 ```bash
-python scripts/create_lesson.py --number 8 --title "Lesson title" --dry-run
-python scripts/create_lesson.py --number 8 --title "Lesson title"
+python scripts/create_lesson.py --number 9 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 9 --title "Lesson title"
 ```
 
 The first command previews the destination. The second creates it only when no file already exists. Projects and results will be added only after implementation, review, and supporting evidence exist.

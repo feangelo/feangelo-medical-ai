@@ -19,3 +19,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 05 documentation for segmentation validation and quality metrics.
 - Lesson 06 documentation for observer variability and scientific reproducibility.
 - Lesson 07 documentation for image acquisition and protocol standardization.
+- Lesson 08 documentation for image preprocessing and harmonization in multicenter medical imaging.
