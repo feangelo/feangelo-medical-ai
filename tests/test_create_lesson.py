@@ -75,4 +75,3 @@ def test_existing_lesson_is_never_overwritten(tmp_path: Path) -> None:
         )
 
     assert destination.read_text(encoding="utf-8") == "preserve me"
-
