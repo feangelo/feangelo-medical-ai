@@ -193,3 +193,26 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Study approved metadata examples, interpolation principles, and feature-stability methods before applying harmonization or multicenter AI workflows.
+
+### 2026-08-13 — DICOM metadata, geometry, and imaging quality control
+
+**What I learned**
+
+- Understood DICOM as pixel data combined with metadata, hierarchy, geometry, and contextual information.
+- Distinguished Series Description from image-based verification and Slice Thickness from inter-slice spacing.
+- Connected voxel geometry, spatial continuity, interpolation, motion, task-specific quality, and registration with pre-segmentation QC.
+- Introduced false positives, false negatives, sensitivity, specificity, decision thresholds, confidence scores, and human review conceptually.
+- Examined de-identification, pseudonymization, re-identification risk, and longitudinal linkage at a high level.
+
+**Difficulties**
+
+- Distinguishing incomplete-series warning signals from evidence about the underlying cause.
+- Integrating metadata, spatial geometry, actual image content, privacy, and task-specific quality into one traceable QC decision.
+
+**Evidence or practice**
+
+- [Lesson 09 — DICOM Metadata, Geometry, and Data Quality Control](learning/3d-slicer/lesson-09-dicom-metadata-geometry-and-data-quality-control.md)
+
+**Next steps**
+
+- Study approved, non-identifiable DICOM metadata examples before implementing pydicom extraction, geometry checks, registration, or automated QC.

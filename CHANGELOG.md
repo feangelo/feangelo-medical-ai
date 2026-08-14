@@ -20,3 +20,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 06 documentation for observer variability and scientific reproducibility.
 - Lesson 07 documentation for image acquisition and protocol standardization.
 - Lesson 08 documentation for image preprocessing and harmonization in multicenter medical imaging.
+- Lesson 09 documentation for DICOM metadata, image geometry, and pre-segmentation quality control.
