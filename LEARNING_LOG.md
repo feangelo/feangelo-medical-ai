@@ -216,3 +216,26 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Study approved, non-identifiable DICOM metadata examples before implementing pydicom extraction, geometry checks, registration, or automated QC.
+
+### 2026-08-14 — Image registration and spatial validation
+
+**What I learned**
+
+- Distinguished rigid, affine, and deformable registration conceptually and connected transformation flexibility with validation responsibility.
+- Connected anatomical landmarks, TRE, Dice, Hausdorff Distance, and HD95 with complementary global, local, overlap, and distance-based evaluation.
+- Examined why biologically meaningful longitudinal change should not be removed by an inappropriate transformation.
+- Introduced similarity metrics, optimization, regularization, external-center validation, domain shift, fine-tuning, and domain adaptation conceptually.
+- Developed root-cause reasoning for cross-center AI performance degradation without claiming implementation or experimental validation.
+
+**Difficulties**
+
+- Separating technical spatial differences from biological anatomical changes when defining a registration objective.
+- Interpreting strong global metrics when a small but scientifically important target may remain locally misaligned.
+
+**Evidence or practice**
+
+- [Lesson 10 — Image Registration and Spatial Validation](learning/3d-slicer/lesson-10-image-registration-and-spatial-validation.md)
+
+**Next steps**
+
+- Perform future registration exercises in 3D Slicer before claiming practical proficiency, then study task-specific landmark and distance-based validation.

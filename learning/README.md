@@ -19,10 +19,11 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 07 — Image Acquisition and Protocol Standardization](3d-slicer/lesson-07-image-acquisition-and-protocol-standardization.md)
 - [Lesson 08 — Image Preprocessing and Harmonization](3d-slicer/lesson-08-image-preprocessing-and-harmonization.md)
 - [Lesson 09 — DICOM Metadata, Geometry, and Data Quality Control](3d-slicer/lesson-09-dicom-metadata-geometry-and-data-quality-control.md)
+- [Lesson 10 — Image Registration and Spatial Validation](3d-slicer/lesson-10-image-registration-and-spatial-validation.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:
 
 ```bash
-python scripts/create_lesson.py --number 10 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 11 --title "Lesson title" --dry-run
 ```
