@@ -99,12 +99,13 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 09](learning/3d-slicer/lesson-09-dicom-metadata-geometry-and-data-quality-control.md) | DICOM Metadata, Image Geometry, and Medical Imaging Data Quality Control | Learning record |
 | [Lesson 10](learning/3d-slicer/lesson-10-image-registration-and-spatial-validation.md) | Image Registration and Spatial Validation | Learning record |
 | [Lesson 11](learning/3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md) | Medical Image Geometry, Resampling and Interpolation | Learning record |
+| [Lesson 12](learning/3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md) | Quantitative Imaging, Measurement Variability and Reliability | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 
 ```bash
-python scripts/create_lesson.py --number 12 --title "Lesson title" --dry-run
-python scripts/create_lesson.py --number 12 --title "Lesson title"
+python scripts/create_lesson.py --number 13 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 13 --title "Lesson title"
 ```
 
 The first command previews the destination. The second creates it only when no file already exists. Projects and results will be added only after implementation, review, and supporting evidence exist.

@@ -29,6 +29,7 @@ The canonical lesson files remain in the repository's `learning/3d-slicer/` dire
 | [Lesson 09](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-09-dicom-metadata-geometry-and-data-quality-control.md) | DICOM metadata, geometry, and data quality control |
 | [Lesson 10](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-10-image-registration-and-spatial-validation.md) | Image registration and spatial validation |
 | [Lesson 11](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md) | Image geometry, resampling, and interpolation |
+| [Lesson 12](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md) | Quantitative imaging, measurement variability, and reliability |
 
 ## Documentation standard
 

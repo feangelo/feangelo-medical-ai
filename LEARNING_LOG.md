@@ -262,3 +262,26 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Perform controlled resampling exercises in 3D Slicer and Python before claiming implementation proficiency, then quantify geometry and measurement changes.
+
+### 2026-08-16 — Quantitative imaging, measurement variability, and reliability
+
+**What I learned**
+
+- Understood why equal quantitative imaging values do not establish biological equivalence.
+- Distinguished repeatability, reproducibility, relative consistency, and absolute agreement conceptually.
+- Connected multicenter confounding, center effects, test-retest design, and feature robustness with cautious interpretation.
+- Introduced ICC as a family of reliability coefficients without studying model selection or formulas.
+- Related observed change to expected measurement variability and introduced the Coefficient of Variation.
+
+**Difficulties**
+
+- Separating possible biological change from technical and measurement variability.
+- Interpreting preserved ranking when absolute measurements are not interchangeable across scanners.
+
+**Evidence or practice**
+
+- [Lesson 12 — Quantitative Imaging, Measurement Variability and Reliability](learning/3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md)
+
+**Next steps**
+
+- Reinforce reliability concepts through controlled examples before implementing test-retest, ICC, or radiomics robustness analyses.

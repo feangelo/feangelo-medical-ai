@@ -21,10 +21,11 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 09 — DICOM Metadata, Geometry, and Data Quality Control](3d-slicer/lesson-09-dicom-metadata-geometry-and-data-quality-control.md)
 - [Lesson 10 — Image Registration and Spatial Validation](3d-slicer/lesson-10-image-registration-and-spatial-validation.md)
 - [Lesson 11 — Medical Image Geometry, Resampling and Interpolation](3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md)
+- [Lesson 12 — Quantitative Imaging, Measurement Variability and Reliability](3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:
 
 ```bash
-python scripts/create_lesson.py --number 12 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 13 --title "Lesson title" --dry-run
 ```
