@@ -1,9 +1,15 @@
 site_name: Felipe Angelo Medical AI Lab
-site_description: Medical Imaging, 3D Segmentation, Radiomics and AI Engineering Portfolio
+site_description: A scientific learning portfolio in medical imaging, quantitative analysis, and Medical AI.
 site_author: Felipe Angelo
+site_url: https://feangelo.github.io/feangelo-medical-ai/
+repo_url: https://github.com/feangelo/feangelo-medical-ai
+repo_name: feangelo/feangelo-medical-ai
 theme:
   name: material
   language: en
+  font: false
+  icon:
+    repo: fontawesome/brands/github
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
@@ -20,20 +26,33 @@ theme:
         icon: material/weather-sunny
         name: Switch to light mode
   features:
+    - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.indexes
     - navigation.top
     - search.suggest
+    - search.highlight
+    - toc.follow
     - content.code.copy
 
 nav:
   - Home: index.md
-  - Vision: vision.md
-  - Roadmap: roadmap.md
-  - Architecture: architecture.md
-  - Data Governance: data-governance.md
-  - Case Standard: case-standard.md
-  - Development: development.md
-  - Wiki: wiki/index.md
+  - Work: work.md
+  - Learning: learning.md
+  - Research Notes: research-notes.md
+  - About: about.md
+  - Documentation:
+      - Vision: vision.md
+      - Roadmap: roadmap.md
+      - Architecture: architecture.md
+      - Data Governance: data-governance.md
+      - Case Standard: case-standard.md
+      - Development: development.md
+      - Wiki: wiki/index.md
+
+extra_css:
+  - stylesheets/extra.css
 
 markdown_extensions:
   - admonition
@@ -47,5 +66,10 @@ extra:
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/felipe-angelo-1812a985
       name: Felipe Angelo on LinkedIn
+    - icon: fontawesome/brands/github
+      link: https://github.com/feangelo
+      name: Felipe Angelo on GitHub
+
+copyright: Felipe Angelo · FAMAI Lab · Scientific learning portfolio
 
 strict: true
