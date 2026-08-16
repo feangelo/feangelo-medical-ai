@@ -8,7 +8,7 @@
 
 ## About
 
-My name is Felipe Angelo. I am a Biomedical Scientist with experience working with CT and MRI imaging. My current documented learning focuses on 3D Slicer foundations and medical image segmentation. Quantitative imaging, radiomics, medical AI, centerlines, and digital twins are longer-term learning goals and are not presented as implemented competencies.
+My name is Felipe Angelo. I am a medical imaging professional with hands-on CT and MRI experience. My current documented learning focuses on 3D Slicer foundations and medical image segmentation. Quantitative imaging, radiomics, medical AI, centerlines, and digital twins are longer-term learning goals and are not presented as implemented competencies.
 
 FAMAI Lab is a long-term public portfolio and technical laboratory. It will be used to document learning, build reproducible workflows, and publish carefully reviewed projects based only on synthetic, public, or appropriately licensed open datasets.
 

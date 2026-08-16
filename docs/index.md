@@ -7,7 +7,7 @@ hide:
 <section class="portfolio-hero" aria-labelledby="hero-title">
   <p class="portfolio-eyebrow">Felipe Angelo <span aria-hidden="true">·</span> FAMAI Lab</p>
   <h1 id="hero-title">Medical imaging, studied and built with scientific care.</h1>
-  <p class="portfolio-lead">Biomedical scientist with practical CT and MRI experience, building reproducible workflows from image geometry and 3D segmentation toward quantitative imaging, radiomics, and Medical AI.</p>
+  <p class="portfolio-lead">Medical imaging professional with hands-on CT and MRI experience, building reproducible workflows from image geometry and 3D segmentation toward quantitative imaging, radiomics, and Medical AI.</p>
   <p class="portfolio-location">São Paulo, Brazil</p>
   <nav class="portfolio-actions" aria-label="Primary portfolio links">
     <a class="portfolio-button portfolio-button--primary" href="work/">Explore work</a>

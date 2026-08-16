@@ -2,7 +2,7 @@
 
 <div class="about-lead">
   <p class="section-label">Felipe Angelo · São Paulo, Brazil</p>
-  <p>Biomedical scientist with practical experience in CT and MRI workflows, developing a technical path toward computational medical imaging, quantitative analysis, radiomics, and Medical AI.</p>
+  <p>Medical imaging professional with hands-on CT and MRI experience, developing a technical path toward computational medical imaging, quantitative analysis, radiomics, and Medical AI.</p>
 </div>
 
 ## Professional direction
