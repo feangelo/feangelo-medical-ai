@@ -42,4 +42,10 @@ markdown_extensions:
   - toc:
       permalink: true
 
+extra:
+  social:
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/felipe-angelo-1812a985
+      name: Felipe Angelo on LinkedIn
+
 strict: true
