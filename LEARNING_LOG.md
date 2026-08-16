@@ -239,3 +239,26 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Perform future registration exercises in 3D Slicer before claiming practical proficiency, then study task-specific landmark and distance-based validation.
+
+### 2026-08-15 — Medical image geometry, resampling, and interpolation
+
+**What I learned**
+
+- Distinguished voxel index, matrix size, and physical position through spacing, origin, and direction.
+- Connected RAS/LPS conventions, isotropic and anisotropic voxels, and physical-space consistency with image-mask alignment.
+- Distinguished acquisition, reconstruction, resampling, linear interpolation, and nearest-neighbor interpolation conceptually.
+- Examined partial-volume effects, small-structure representation, error propagation, and the limits of computational success.
+- Connected geometry and resampling decisions with future multicenter radiomics and Medical AI validation.
+
+**Difficulties**
+
+- Separating a denser resampled grid from genuinely finer information acquired or reconstructed from source measurements.
+- Distinguishing visually plausible enhancement from anatomical information supported by acquired data.
+
+**Evidence or practice**
+
+- [Lesson 11 — Medical Image Geometry, Resampling and Interpolation](learning/3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md)
+
+**Next steps**
+
+- Perform controlled resampling exercises in 3D Slicer and Python before claiming implementation proficiency, then quantify geometry and measurement changes.

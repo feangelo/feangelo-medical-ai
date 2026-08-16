@@ -22,3 +22,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 08 documentation for image preprocessing and harmonization in multicenter medical imaging.
 - Lesson 09 documentation for DICOM metadata, image geometry, and pre-segmentation quality control.
 - Lesson 10 documentation for image registration, spatial validation, and multicenter generalization concepts.
+- Lesson 11 documentation for medical image geometry, resampling, interpolation, and scientific validity.
