@@ -123,7 +123,11 @@ Do not report sensitive medical data in a public issue. Follow [SECURITY.md](SEC
 
 ## Contact
 
-Professional contact links will be added after Felipe has reviewed and approved the public profiles to be listed. No contact details are inferred or published automatically.
+Open to professional connections, research collaboration, and opportunities in Medical Imaging, 3D Segmentation, Radiomics, and Medical AI.
+
+- **Email:** [felipeangelo.medicalai@gmail.com](mailto:felipeangelo.medicalai@gmail.com)
+- **LinkedIn:** [Felipe Angelo](https://www.linkedin.com/in/felipe-angelo-1812a985)
+- **Location:** São Paulo, Brazil
 
 ## License
 
