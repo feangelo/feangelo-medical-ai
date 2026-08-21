@@ -24,3 +24,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 10 documentation for image registration, spatial validation, and multicenter generalization concepts.
 - Lesson 11 documentation for medical image geometry, resampling, interpolation, and scientific validity.
 - Lesson 12 documentation for quantitative imaging, measurement variability, reliability, and introductory coefficient of variation.
+- Lesson 13 documentation for percentage change, introductory Bland–Altman agreement, bias, Limits of Agreement, and magnitude-dependent interpretation.

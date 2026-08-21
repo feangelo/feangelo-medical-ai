@@ -285,3 +285,26 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Reinforce reliability concepts through controlled examples before implementing test-retest, ICC, or radiomics robustness analyses.
+
+### 2026-08-21 — Measurement reliability, percentage change, and agreement
+
+**What I learned**
+
+- Calculated percentage change using the initial value as the reference and distinguished increases from decreases.
+- Distinguished absolute difference from relative change and interpreted change relative to expected measurement variability.
+- Introduced Bland–Altman point construction, mean difference, systematic bias, and Limits of Agreement conceptually.
+- Understood why zero mean bias does not guarantee close agreement.
+- Interpreted the relative importance of an absolute measurement error according to measurement magnitude.
+
+**Difficulties**
+
+- Consolidating percentage-change foundations before continuing into agreement analysis.
+- Separating mean bias from the spread and intended-use acceptability of paired differences.
+
+**Evidence or practice**
+
+- [Lesson 13 — Measurement Reliability, Percentage Change and Agreement](learning/3d-slicer/lesson-13-measurement-reliability-percentage-change-and-agreement.md)
+
+**Next steps**
+
+- Continue agreement analysis from magnitude-dependent interpretation without claiming statistical implementation or mastery.
