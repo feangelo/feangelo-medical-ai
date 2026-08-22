@@ -6,6 +6,7 @@ repo_url: https://github.com/feangelo/feangelo-medical-ai
 repo_name: feangelo/feangelo-medical-ai
 theme:
   name: material
+  custom_dir: overrides
   language: en
   font: false
   icon:
@@ -39,7 +40,23 @@ theme:
 nav:
   - Home: index.md
   - Work: work.md
-  - Learning: learning.md
+  - Learning:
+      - Overview: learning.md
+      - Lessons:
+          - Lesson 01 — Introduction to 3D Slicer: lessons/lesson-01-introduction-to-3d-slicer.md
+          - Lesson 02 — First Lung Segmentation: lessons/lesson-02-first-lung-segmentation.md
+          - Lesson 03 — Segmentation Pipeline: lessons/lesson-03-segmentation-pipeline.md
+          - Lesson 04 — Quality Control and Manual Editing: lessons/lesson-04-quality-control-and-manual-editing.md
+          - Lesson 05 — Segmentation Validation and Quality Metrics: lessons/lesson-05-segmentation-validation-and-quality-metrics.md
+          - Lesson 06 — Observer Variability and Reproducibility: lessons/lesson-06-observer-variability-and-scientific-reproducibility.md
+          - Lesson 07 — Acquisition and Protocol Standardization: lessons/lesson-07-image-acquisition-and-protocol-standardization.md
+          - Lesson 08 — Preprocessing and Harmonization: lessons/lesson-08-image-preprocessing-and-harmonization.md
+          - Lesson 09 — DICOM Metadata, Geometry, and Data Quality: lessons/lesson-09-dicom-metadata-geometry-and-data-quality-control.md
+          - Lesson 10 — Registration and Spatial Validation: lessons/lesson-10-image-registration-and-spatial-validation.md
+          - Lesson 11 — Geometry, Resampling, and Interpolation: lessons/lesson-11-image-geometry-resampling-and-interpolation.md
+          - Lesson 12 — Measurement Variability and Reliability: lessons/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md
+          - Lesson 13 — Percentage Change and Agreement: lessons/lesson-13-measurement-reliability-percentage-change-and-agreement.md
+          - Lesson 14 — Proportional Bias and Heteroscedasticity: lessons/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md
   - Research Notes: research-notes.md
   - About: about.md
   - Documentation:
@@ -53,6 +70,9 @@ nav:
 
 extra_css:
   - stylesheets/extra.css
+
+hooks:
+  - scripts/mkdocs_hooks.py
 
 markdown_extensions:
   - admonition

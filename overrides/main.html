@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+  {{ super() }}
+  {% if page %}
+  <meta property="og:type" content="{% if page and page.file.src_uri == 'about.md' %}profile{% else %}website{% endif %}">
+  <meta property="og:site_name" content="FAMAI Lab">
+  <meta property="og:title" content="{% if page and page.title %}{{ page.title }} · FAMAI Lab{% else %}{{ config.site_name }}{% endif %}">
+  <meta property="og:description" content="{{ page.meta.description | default(config.site_description, true) }}">
+  <meta property="og:url" content="{{ page.canonical_url }}">
+  <meta property="og:locale" content="en_US">
+  <meta name="twitter:card" content="summary">
+  <meta name="twitter:title" content="{% if page and page.title %}{{ page.title }} · FAMAI Lab{% else %}{{ config.site_name }}{% endif %}">
+  <meta name="twitter:description" content="{{ page.meta.description | default(config.site_description, true) }}">
+  {% if page and page.file.src_uri == "index.md" %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "@id": "https://feangelo.github.io/feangelo-medical-ai/#website",
+        "url": "https://feangelo.github.io/feangelo-medical-ai/",
+        "name": "Felipe Angelo Medical AI Lab",
+        "alternateName": "FAMAI Lab",
+        "description": {{ page.meta.description | tojson }},
+        "inLanguage": "en",
+        "creator": {
+          "@id": "https://feangelo.github.io/feangelo-medical-ai/about/#person"
+        }
+      }
+    </script>
+  {% elif page and page.file.src_uri == "about.md" %}
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ProfilePage",
+        "@id": "https://feangelo.github.io/feangelo-medical-ai/about/#profile-page",
+        "url": "https://feangelo.github.io/feangelo-medical-ai/about/",
+        "name": "About Felipe Angelo · FAMAI Lab",
+        "description": {{ page.meta.description | tojson }},
+        "inLanguage": "en",
+        "mainEntity": {
+          "@type": "Person",
+          "@id": "https://feangelo.github.io/feangelo-medical-ai/about/#person",
+          "name": "Felipe Angelo",
+          "url": "https://feangelo.github.io/feangelo-medical-ai/about/",
+          "homeLocation": {
+            "@type": "Place",
+            "name": "São Paulo, Brazil"
+          },
+          "knowsAbout": [
+            "Medical imaging",
+            "CT and MRI operations",
+            "3D segmentation learning",
+            "Quantitative imaging learning",
+            "Radiomics foundations",
+            "Medical AI foundations"
+          ],
+          "sameAs": [
+            "https://github.com/feangelo",
+            "https://www.linkedin.com/in/felipe-angelo-1812a985"
+          ]
+        }
+      }
+    </script>
+  {% endif %}
+  {% endif %}
+{% endblock %}

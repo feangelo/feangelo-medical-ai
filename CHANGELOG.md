@@ -6,6 +6,7 @@ All notable changes to this project will be documented here. The format follows 
 
 ### Added
 
+- Technical SEO metadata, structured data, crawlable canonical Lesson pages, and robots discovery.
 - Initial repository architecture and governance documents.
 - Privacy-conscious case template and data classification model.
 - Python 3.12 project metadata, quality configuration, and documentation scaffold.
