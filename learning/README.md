@@ -23,10 +23,11 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 11 — Medical Image Geometry, Resampling and Interpolation](3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md)
 - [Lesson 12 — Quantitative Imaging, Measurement Variability and Reliability](3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md)
 - [Lesson 13 — Measurement Reliability, Percentage Change and Agreement](3d-slicer/lesson-13-measurement-reliability-percentage-change-and-agreement.md)
+- [Lesson 14 — Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity](3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:
 
 ```bash
-python scripts/create_lesson.py --number 14 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 15 --title "Lesson title" --dry-run
 ```

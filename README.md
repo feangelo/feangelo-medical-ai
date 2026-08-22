@@ -101,12 +101,13 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 11](learning/3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md) | Medical Image Geometry, Resampling and Interpolation | Learning record |
 | [Lesson 12](learning/3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md) | Quantitative Imaging, Measurement Variability and Reliability | Learning record |
 | [Lesson 13](learning/3d-slicer/lesson-13-measurement-reliability-percentage-change-and-agreement.md) | Measurement Reliability, Percentage Change and Agreement | Learning record |
+| [Lesson 14](learning/3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 
 ```bash
-python scripts/create_lesson.py --number 14 --title "Lesson title" --dry-run
-python scripts/create_lesson.py --number 14 --title "Lesson title"
+python scripts/create_lesson.py --number 15 --title "Lesson title" --dry-run
+python scripts/create_lesson.py --number 15 --title "Lesson title"
 ```
 
 The first command previews the destination. The second creates it only when no file already exists. Projects and results will be added only after implementation, review, and supporting evidence exist.

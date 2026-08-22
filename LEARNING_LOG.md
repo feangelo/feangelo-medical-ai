@@ -308,3 +308,28 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Continue agreement analysis from magnitude-dependent interpretation without claiming statistical implementation or mastery.
+
+### 2026-08-22 — Magnitude-dependent agreement, proportional bias, and heteroscedasticity
+
+**What I learned**
+
+- Interpreted the same absolute difference according to measurement magnitude.
+- Introduced proportional bias conceptually as a systematic directional pattern across magnitude.
+- Introduced heteroscedasticity conceptually as changing spread across magnitude.
+- Distinguished direction from spread using contrasting Bland–Altman patterns.
+- Recognized that proportional bias and heteroscedasticity may potentially coexist.
+- Reinforced that small mean bias can coexist with substantial individual disagreement.
+
+**Difficulties**
+
+- Distinguishing a directional pattern from changing variability when only a few illustrative pairs are available.
+- Avoiding agreement conclusions based only on a small global mean bias.
+
+**Evidence or practice**
+
+- [Lesson 14 — Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity](learning/3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md)
+
+**Next steps**
+
+- Continue agreement analysis later without advancing this record into formal tests, transformations, or statistical implementation.
+- Resume Scientific English through contextual, attempt-first practice without treating incomplete exercises as demonstrated competence.

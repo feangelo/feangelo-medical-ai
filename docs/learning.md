@@ -31,6 +31,7 @@ The canonical lesson files remain in the repository's `learning/3d-slicer/` dire
 | [Lesson 11](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-11-image-geometry-resampling-and-interpolation.md) | Image geometry, resampling, and interpolation |
 | [Lesson 12](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md) | Quantitative imaging, measurement variability, and reliability |
 | [Lesson 13](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-13-measurement-reliability-percentage-change-and-agreement.md) | Measurement reliability, percentage change, and agreement |
+| [Lesson 14](https://github.com/feangelo/feangelo-medical-ai/blob/main/learning/3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-dependent agreement, proportional bias, and heteroscedasticity |
 
 ## Documentation standard
 
