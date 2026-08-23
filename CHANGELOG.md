@@ -27,3 +27,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 12 documentation for quantitative imaging, measurement variability, reliability, and introductory coefficient of variation.
 - Lesson 13 documentation for percentage change, introductory Bland–Altman agreement, bias, Limits of Agreement, and magnitude-dependent interpretation.
 - Lesson 14 documentation for magnitude-dependent agreement, conceptual proportional bias, heteroscedasticity, and cautious interpretation of mean bias.
+- Lesson 15 documentation for study design, data provenance, cohort selection, generalizability, and conceptual quantitative segmentation planning.

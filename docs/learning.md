@@ -32,6 +32,7 @@ The lesson files remain canonical in the repository's `learning/3d-slicer/` dire
 | [Lesson 12](lessons/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md) | Quantitative imaging, measurement variability, and reliability |
 | [Lesson 13](lessons/lesson-13-measurement-reliability-percentage-change-and-agreement.md) | Measurement reliability, percentage change, and agreement |
 | [Lesson 14](lessons/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-dependent agreement, proportional bias, and heteroscedasticity |
+| [Lesson 15](lessons/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md) | Study design, data provenance, and quantitative segmentation planning |
 
 ## Documentation standard
 

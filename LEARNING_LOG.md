@@ -333,3 +333,27 @@ This log records progress without treating study activity as proof of validated 
 
 - Continue agreement analysis later without advancing this record into formal tests, transformations, or statistical implementation.
 - Resume Scientific English through contextual, attempt-first practice without treating incomplete exercises as demonstrated competence.
+
+### 2026-08-23 — Study design, data provenance, and quantitative segmentation planning
+
+**What I learned**
+
+- Connected data provenance, licensing, privacy, and transparent cohort selection with reproducible study planning.
+- Introduced selection bias, representativeness, external validity, and generalizability conceptually.
+- Narrowed a future small-lesion measurement study to reconstruction or slice thickness using 1 mm as a reference condition and 3/5 mm as comparisons.
+- Planned independent, single-observer, fixed-threshold segmentations and complementary absolute volume, relative volume, and Dice comparisons.
+- Recognized that Dice depends on lesion size and geometry and can be sensitive to a few boundary voxels in small lesions.
+
+**Difficulties**
+
+- Separating a justified technical exclusion from its possible effect on the composition and representativeness of the analyzed sample.
+- Keeping an operational reference condition distinct from ground truth and planned examples distinct from experimental findings.
+
+**Evidence or practice**
+
+- [Lesson 15 — Study Design, Data Provenance and Quantitative Segmentation Planning](learning/3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md)
+- Conceptual planning only; no dataset, segmentation, experiment, or empirical result was produced.
+
+**Next steps**
+
+- Begin Lesson 16 by defining an executable protocol and verifying a suitable dataset's provenance, license, terms, privacy, and technical conditions before any download or analysis.

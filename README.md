@@ -102,6 +102,7 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 12](learning/3d-slicer/lesson-12-quantitative-imaging-measurement-variability-and-reliability.md) | Quantitative Imaging, Measurement Variability and Reliability | Learning record |
 | [Lesson 13](learning/3d-slicer/lesson-13-measurement-reliability-percentage-change-and-agreement.md) | Measurement Reliability, Percentage Change and Agreement | Learning record |
 | [Lesson 14](learning/3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity | Learning record |
+| [Lesson 15](learning/3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md) | Study Design, Data Provenance and Quantitative Segmentation Planning | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 
