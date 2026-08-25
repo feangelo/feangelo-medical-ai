@@ -39,7 +39,7 @@ hide:
       <p>A documented structure for future synthetic, open-dataset, and public medical imaging cases, with provenance, privacy, quality control, and evidence requirements built in.</p>
     </article>
     <article class="work-entry">
-      <div class="work-meta"><span>Technical learning</span><span>14 records</span></div>
+      <div class="work-meta"><span>Technical learning</span><span>16 records</span></div>
       <h3><a href="learning/">Medical image analysis learning record</a></h3>
       <p>Progressive notes from 3D Slicer foundations through segmentation quality, acquisition, registration, geometry, resampling, and scientific validation.</p>
     </article>

@@ -357,3 +357,27 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Begin Lesson 16 by defining an executable protocol and verifying a suitable dataset's provenance, license, terms, privacy, and technical conditions before any download or analysis.
+
+### 2026-08-25 — Dataset requirements, segmentation metrics, and practical study protocol
+
+**What I learned**
+
+- Refined the conceptual dataset and reconstruction requirements for a future slice-thickness study without selecting or evaluating a dataset.
+- Distinguished an originally thin reconstruction from interpolation of originally thick data and revisited partial-volume implications.
+- Connected segmentation provenance, reference segmentation, metadata, data dictionaries, and lesion-size definitions with responsible dataset evaluation.
+- Defined distinct roles for diameter, volume, Dice, introductory ASD, HD, HD95, visual quality control, and magnitude-aware interpretation.
+- Extended the conceptual design with an optional 1.5 mm condition, reference and adjacent comparisons, a master table, and traceable exclusions.
+
+**Difficulties**
+
+- Distinguishing average surface behavior from localized extreme discrepancy when ASD, HD, and HD95 were first introduced.
+- Keeping the first practical protocol manageable while preserving metrics that may later provide complementary information.
+
+**Evidence or practice**
+
+- [Lesson 16 — Dataset Requirements, Segmentation Metrics and Practical Study Protocol](learning/3d-slicer/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md)
+- Conceptual protocol refinement only; no dataset, download, medical-image analysis, segmentation, metric calculation, or experimental result was produced.
+
+**Next steps**
+
+- Begin Lesson 17 by evaluating candidate public datasets against the requirements defined in Lessons 15–16, without assuming suitability before reviewing official documentation.

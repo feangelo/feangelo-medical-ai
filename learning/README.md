@@ -25,6 +25,7 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 13 — Measurement Reliability, Percentage Change and Agreement](3d-slicer/lesson-13-measurement-reliability-percentage-change-and-agreement.md)
 - [Lesson 14 — Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity](3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md)
 - [Lesson 15 — Study Design, Data Provenance and Quantitative Segmentation Planning](3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md)
+- [Lesson 16 — Dataset Requirements, Segmentation Metrics and Practical Study Protocol](3d-slicer/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:

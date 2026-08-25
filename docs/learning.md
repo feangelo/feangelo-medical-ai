@@ -33,6 +33,7 @@ The lesson files remain canonical in the repository's `learning/3d-slicer/` dire
 | [Lesson 13](lessons/lesson-13-measurement-reliability-percentage-change-and-agreement.md) | Measurement reliability, percentage change, and agreement |
 | [Lesson 14](lessons/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-dependent agreement, proportional bias, and heteroscedasticity |
 | [Lesson 15](lessons/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md) | Study design, data provenance, and quantitative segmentation planning |
+| [Lesson 16](lessons/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md) | Dataset requirements, segmentation metrics, and practical study protocol |
 
 ## Documentation standard
 
