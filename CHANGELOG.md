@@ -30,3 +30,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 15 documentation for study design, data provenance, cohort selection, generalizability, and conceptual quantitative segmentation planning.
 - Lesson 16 documentation for dataset requirements, reconstruction conditions, segmentation provenance, introductory surface-distance metrics, visual quality control, and traceable study-protocol design.
 - Lesson 17 documentation for practical RIDER-LUNG-CT auditing, DICOM reconstruction metadata, CT–SEG correspondence, kernel control, and preparation for systematic pilot selection.
+- Lesson 18 documentation for RIDER-LUNG-CT pilot selection, selective DICOM download, Slicer SEG import, visualization troubleshooting, and an unresolved anatomical/provenance QC discrepancy.

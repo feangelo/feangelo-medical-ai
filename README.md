@@ -105,6 +105,7 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 15](learning/3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md) | Study Design, Data Provenance and Quantitative Segmentation Planning | Learning record |
 | [Lesson 16](learning/3d-slicer/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md) | Dataset Requirements, Segmentation Metrics and Practical Study Protocol | Learning record |
 | [Lesson 17](learning/3d-slicer/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md) | Practical Dataset Audit: TCIA RIDER-LUNG-CT, DICOM Reconstruction Parameters and CT–SEG Mapping | Learning record |
+| [Lesson 18](learning/3d-slicer/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md) | RIDER-LUNG-CT: First Case Selection, DICOM Download, SEG Import and Visual Quality Control | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 

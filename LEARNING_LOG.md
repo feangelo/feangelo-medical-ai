@@ -405,3 +405,28 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Map CT–SEG correspondence and reconstruction completeness systematically, then assess segmentation provenance and small-lesion suitability before accepting a dataset or downloading a pilot.
+
+### 2026-08-28 — RIDER-LUNG-CT first pilot download, SEG import, and visual QC
+
+**What I learned**
+
+- Selected one RIDER-LUNG-CT pilot case and manually mapped 1.25, 2.5, and 5 mm reconstructions while distinguishing STANDARD from LUNG kernels.
+- Downloaded a 241 MB pilot containing three STANDARD CT series and the Series 2 DICOM SEG rather than the complete collection.
+- Created a DICOM database in 3D Slicer 5.10.0, imported 458 instances across four series, and installed QuantitativeReporting after Slicer suggested it.
+- Loaded the 2.5 mm STANDARD CT and its SEG, verified Series 2 as source geometry, and made the segmentation visible in slice and 3D views.
+- Stopped before quantitative analysis after observing an unresolved discrepancy between the expected pulmonary target and the apparent upper-abdominal/hepatic-region location of the segmentation.
+
+**Difficulties**
+
+- Troubleshooting a segmentation that had imported but was not initially visible in the reviewed CT views.
+- Distinguishing successful geometric import from verified anatomical identity and segmentation provenance.
+- Describing an unexpected anatomical location without asserting that the segment is hepatic or that the source annotation is erroneous.
+
+**Evidence or practice**
+
+- [Lesson 18 — RIDER-LUNG-CT: First Case Selection, DICOM Download, SEG Import and Visual Quality Control](learning/3d-slicer/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md)
+- Practical single-case pilot only; no volume, percentage change, Dice, ASD, HD95, radiomics, statistical analysis, or slice-thickness experiment was performed.
+
+**Next steps**
+
+- Inspect the DICOM SEG internal references and determine the segment's anatomical identity and provenance before deciding whether it is appropriate for the intended pulmonary-lesion experiment.
