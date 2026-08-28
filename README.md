@@ -104,6 +104,7 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 14](learning/3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity | Learning record |
 | [Lesson 15](learning/3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md) | Study Design, Data Provenance and Quantitative Segmentation Planning | Learning record |
 | [Lesson 16](learning/3d-slicer/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md) | Dataset Requirements, Segmentation Metrics and Practical Study Protocol | Learning record |
+| [Lesson 17](learning/3d-slicer/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md) | Practical Dataset Audit: TCIA RIDER-LUNG-CT, DICOM Reconstruction Parameters and CT–SEG Mapping | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 

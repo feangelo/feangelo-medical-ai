@@ -34,6 +34,7 @@ The lesson files remain canonical in the repository's `learning/3d-slicer/` dire
 | [Lesson 14](lessons/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md) | Magnitude-dependent agreement, proportional bias, and heteroscedasticity |
 | [Lesson 15](lessons/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md) | Study design, data provenance, and quantitative segmentation planning |
 | [Lesson 16](lessons/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md) | Dataset requirements, segmentation metrics, and practical study protocol |
+| [Lesson 17](lessons/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md) | Practical RIDER-LUNG-CT dataset audit, DICOM reconstruction metadata, and CT–SEG mapping |
 
 ## Documentation standard
 

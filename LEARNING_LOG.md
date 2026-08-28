@@ -381,3 +381,27 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Begin Lesson 17 by evaluating candidate public datasets against the requirements defined in Lessons 15–16, without assuming suitability before reviewing official documentation.
+
+### 2026-08-27 — Practical RIDER-LUNG-CT dataset and DICOM audit
+
+**What I learned**
+
+- Audited RIDER-LUNG-CT Version 3 as a real public candidate through TCIA, NBIA, its metadata spreadsheet, and selected DICOM headers.
+- Distinguished CT acquisition from reconstruction and recognized that console or PACS images are reconstructed rather than necessarily raw projection data.
+- Used Study Instance UID, Series Instance UID, and the collection-specific Series Number rule to investigate CT–SEG correspondence.
+- Verified Slice Thickness directly in DICOM metadata and distinguished it from Single Collimation Width.
+- Identified 1.25, 2.5, and 5 mm STANDARD-kernel reconstructions in one inspected study and recognized kernel as a potential confounder.
+
+**Difficulties**
+
+- Avoiding the use of Image Count as direct evidence of Slice Thickness.
+- Separating the promising technical structure of one inspected study from evidence of systematic completeness or final dataset suitability.
+
+**Evidence or practice**
+
+- [Lesson 17 — Practical Dataset Audit: TCIA RIDER-LUNG-CT, DICOM Reconstruction Parameters and CT–SEG Mapping](learning/3d-slicer/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md)
+- Practical public-data audit only; no full download, quantitative segmentation experiment, metric calculation, radiomics, or AI training was performed.
+
+**Next steps**
+
+- Map CT–SEG correspondence and reconstruction completeness systematically, then assess segmentation provenance and small-lesion suitability before accepting a dataset or downloading a pilot.

@@ -26,6 +26,7 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 14 — Magnitude-Dependent Agreement, Proportional Bias and Heteroscedasticity](3d-slicer/lesson-14-magnitude-dependent-agreement-proportional-bias-and-heteroscedasticity.md)
 - [Lesson 15 — Study Design, Data Provenance and Quantitative Segmentation Planning](3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md)
 - [Lesson 16 — Dataset Requirements, Segmentation Metrics and Practical Study Protocol](3d-slicer/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md)
+- [Lesson 17 — Practical Dataset Audit: TCIA RIDER-LUNG-CT, DICOM Reconstruction Parameters and CT–SEG Mapping](3d-slicer/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:
