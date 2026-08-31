@@ -61,6 +61,7 @@ nav:
           - Lesson 16 — Dataset Requirements and Segmentation Metrics: lessons/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md
           - Lesson 17 — Practical RIDER-LUNG-CT Dataset Audit: lessons/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md
           - Lesson 18 — RIDER-LUNG-CT DICOM SEG Visual QC: lessons/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md
+          - Lesson 19 — RIDER-LUNG-CT DICOM SEG Source Verification: lessons/lesson-19-rider-lung-ct-dicom-seg-source-verification-and-quality-control.md
   - Research Notes: research-notes.md
   - About: about.md
   - Documentation:

@@ -430,3 +430,28 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Inspect the DICOM SEG internal references and determine the segment's anatomical identity and provenance before deciding whether it is appropriate for the intended pulmonary-lesion experiment.
+
+### 2026-08-31 — RIDER-LUNG-CT DICOM SEG source verification and quality control
+
+**What I learned**
+
+- Verified CT Series 2 as a 2.5 mm STANDARD reconstruction and distinguished reconstructed Slice Thickness from Single Collimation Width.
+- Inspected the DICOM SEG metadata, including its binary type, single frame, semantic `lung` fields, semiautomatic method, and Weasis algorithm name.
+- Used ReferencedSeriesSequence and SourceImageSequence to support the SEG association with CT Series 2 rather than relying only on equal Series Numbers.
+- Distinguished a Series Instance UID from the SOP Instance UID of an individual CT image.
+- Confirmed that technical source association and spatial geometry can be coherent while semantic and anatomical interpretation remains unresolved.
+
+**Difficulties**
+
+- Separating verification of source-series association from verification of the segment's anatomical identity.
+- Interpreting a single SEG frame without treating the `lung` label as proof of a complete pulmonary segmentation.
+- Reporting an apparent hepatic-region location without asserting a diagnosis or an annotation error.
+
+**Evidence or practice**
+
+- [Lesson 19 — RIDER-LUNG-CT: DICOM SEG Source Verification and Quality Control](learning/3d-slicer/lesson-19-rider-lung-ct-dicom-seg-source-verification-and-quality-control.md)
+- Practical audit of one public, de-identified research case; no DICOM data, metric calculation, registration, resampling, radiomics, statistical analysis, or AI training was added.
+
+**Next steps**
+
+- Systematically verify the native 1.25, 2.5, and 5 mm STANDARD reconstructions from the same study, define an independent-segmentation protocol, and begin quantitative work only after anatomical and geometric correspondence is established.

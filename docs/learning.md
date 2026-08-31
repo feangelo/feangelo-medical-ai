@@ -36,6 +36,7 @@ The lesson files remain canonical in the repository's `learning/3d-slicer/` dire
 | [Lesson 16](lessons/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md) | Dataset requirements, segmentation metrics, and practical study protocol |
 | [Lesson 17](lessons/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md) | Practical RIDER-LUNG-CT dataset audit, DICOM reconstruction metadata, and CT–SEG mapping |
 | [Lesson 18](lessons/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md) | RIDER-LUNG-CT first case selection, DICOM download, SEG import, and visual quality control |
+| [Lesson 19](lessons/lesson-19-rider-lung-ct-dicom-seg-source-verification-and-quality-control.md) | RIDER-LUNG-CT DICOM SEG source verification, metadata audit, and quality control |
 
 ## Documentation standard
 

@@ -31,3 +31,4 @@ All notable changes to this project will be documented here. The format follows 
 - Lesson 16 documentation for dataset requirements, reconstruction conditions, segmentation provenance, introductory surface-distance metrics, visual quality control, and traceable study-protocol design.
 - Lesson 17 documentation for practical RIDER-LUNG-CT auditing, DICOM reconstruction metadata, CT–SEG correspondence, kernel control, and preparation for systematic pilot selection.
 - Lesson 18 documentation for RIDER-LUNG-CT pilot selection, selective DICOM download, Slicer SEG import, visualization troubleshooting, and an unresolved anatomical/provenance QC discrepancy.
+- Lesson 19 documentation for RIDER-LUNG-CT DICOM SEG source-reference verification, metadata and geometry auditing, semantic-label review, and unresolved visual QC.
