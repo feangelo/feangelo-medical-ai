@@ -107,6 +107,7 @@ The learning journey records concepts, questions, limitations, and next steps wi
 | [Lesson 17](learning/3d-slicer/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md) | Practical Dataset Audit: TCIA RIDER-LUNG-CT, DICOM Reconstruction Parameters and CT–SEG Mapping | Learning record |
 | [Lesson 18](learning/3d-slicer/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md) | RIDER-LUNG-CT: First Case Selection, DICOM Download, SEG Import and Visual Quality Control | Learning record |
 | [Lesson 19](learning/3d-slicer/lesson-19-rider-lung-ct-dicom-seg-source-verification-and-quality-control.md) | RIDER-LUNG-CT: DICOM SEG Source Verification and Quality Control | Learning record |
+| [Lesson 20](learning/3d-slicer/lesson-20-rider-lung-ct-first-experimental-lesion-segmentation.md) | RIDER-LUNG-CT: First Experimental Lesion Segmentation | Learning record |
 
 Future lesson files can be prepared safely from the [lesson template](learning/3d-slicer/TEMPLATE.md):
 

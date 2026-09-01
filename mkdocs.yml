@@ -62,6 +62,7 @@ nav:
           - Lesson 17 — Practical RIDER-LUNG-CT Dataset Audit: lessons/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md
           - Lesson 18 — RIDER-LUNG-CT DICOM SEG Visual QC: lessons/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md
           - Lesson 19 — RIDER-LUNG-CT DICOM SEG Source Verification: lessons/lesson-19-rider-lung-ct-dicom-seg-source-verification-and-quality-control.md
+          - Lesson 20 — RIDER-LUNG-CT First Experimental Segmentation: lessons/lesson-20-rider-lung-ct-first-experimental-lesion-segmentation.md
   - Research Notes: research-notes.md
   - About: about.md
   - Documentation:

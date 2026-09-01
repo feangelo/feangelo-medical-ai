@@ -455,3 +455,30 @@ This log records progress without treating study activity as proof of validated 
 **Next steps**
 
 - Systematically verify the native 1.25, 2.5, and 5 mm STANDARD reconstructions from the same study, define an independent-segmentation protocol, and begin quantitative work only after anatomical and geometric correspondence is established.
+
+### 2026-09-01 — First RIDER-LUNG-CT experimental lesion segmentation
+
+**What I learned**
+
+- Created the first practical pilot segmentation on the 1.25 mm STANDARD reconstruction of the selected RIDER-LUNG-CT case.
+- Explored HU values and observed that overlapping thoracic soft-tissue intensities limited lesion-specific isolation with a global threshold.
+- Examined how connectivity in the thresholded mask limited Keep selected island when target and nontarget structures remained connected.
+- Used foreground and background seeds with Grow from Seeds, iteratively refined the preview, and reviewed the lesion in axial, coronal, and sagittal views.
+- Accepted and saved `Lesion_1p25mm_STANDARD` locally as `RIDER_1129164940_1p25mm_STANDARD_Lesion.seg.nrrd`.
+- Recognized interactive seed placement as a potential source of variability that must be standardized before comparing reconstruction thicknesses.
+
+**Difficulties**
+
+- Separating the irregular lesion boundary from adjacent thoracic structures with overlapping attenuation.
+- Preventing leakage or omission near pleural, chest-wall, mediastinal, vascular, and superior/inferior interfaces.
+- Refining seeds without allowing condition-specific manual choices to become an undocumented experimental confounder.
+
+**Evidence or practice**
+
+- [Lesson 20 — RIDER-LUNG-CT: First Experimental Lesion Segmentation](learning/3d-slicer/lesson-20-rider-lung-ct-first-experimental-lesion-segmentation.md)
+- One interactive semiautomatic segmentation was completed and saved locally; no imaging data or segmentation artifact was added to the repository.
+- No volume, percentage change, Dice, ASD, HD95, repeatability, radiomics, statistical analysis, or cross-thickness comparison was performed.
+
+**Next steps**
+
+- Segment the same lesion independently on the 2.5 mm STANDARD reconstruction while standardizing seed placement, preview refinement, multi-planar QC, naming, and geometry documentation.
