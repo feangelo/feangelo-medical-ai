@@ -27,6 +27,9 @@ Content should be committed only after it has been checked for consistency with 
 - [Lesson 15 — Study Design, Data Provenance and Quantitative Segmentation Planning](3d-slicer/lesson-15-study-design-data-provenance-and-quantitative-segmentation-planning.md)
 - [Lesson 16 — Dataset Requirements, Segmentation Metrics and Practical Study Protocol](3d-slicer/lesson-16-dataset-requirements-segmentation-metrics-and-practical-study-protocol.md)
 - [Lesson 17 — Practical Dataset Audit: TCIA RIDER-LUNG-CT, DICOM Reconstruction Parameters and CT–SEG Mapping](3d-slicer/lesson-17-practical-dataset-audit-tcia-rider-lung-ct-dicom-reconstruction-parameters-and-ct-seg-mapping.md)
+- [Lesson 18 — RIDER-LUNG-CT: First Case Selection, DICOM Download, SEG Import and Visual Quality Control](3d-slicer/lesson-18-rider-lung-ct-first-case-selection-dicom-download-seg-import-and-visual-quality-control.md)
+- [Lesson 19 — RIDER-LUNG-CT: DICOM SEG Source Verification and Quality Control](3d-slicer/lesson-19-rider-lung-ct-dicom-seg-source-verification-and-quality-control.md)
+- [Lesson 20 — RIDER-LUNG-CT: First Experimental Lesion Segmentation](3d-slicer/lesson-20-rider-lung-ct-first-experimental-lesion-segmentation.md)
 - [Lesson template](3d-slicer/TEMPLATE.md)
 
 Create a future lesson with a non-destructive preview first:
